@@ -1,0 +1,56 @@
+.Main-div{
+    border: hidden;
+    padding-top: 160px;
+    justify-content: center;
+    display: inline-flex;
+    margin-bottom: 200px;
+}
+.fst{
+    position: relative;
+    left:20%;
+    width: 400px;
+    border-right: solid #fb8500;
+}
+
+.nd{
+    position: relative;
+    left: 30%;
+    width: 400px;
+    border-right: solid #fb8500;
+}
+
+.rd{
+    position: relative;
+    left : 35%;
+    width: 400px;
+}
+
+.cl{
+    padding-left: 20px;
+
+    font-size: 32px;
+
+    margin-bottom: 20px;
+}
+
+.p1 {
+    padding-right: 25px;
+    font-size: 22px;
+}
+.c2{
+    padding-left: 20px;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.p2{
+    font-size: 22px;
+    padding-right: 25px;
+}
+.p3{
+    font-size: 22px;
+}
+
+.c3{
+    font-size: 32px;
+    margin-bottom: 20px;
+}

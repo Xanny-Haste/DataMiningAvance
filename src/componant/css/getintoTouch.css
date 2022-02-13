@@ -1,0 +1,19 @@
+.title{
+    font-size: 3.2rem;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    padding-top: 65px;
+    padding-bottom: 55px;
+}
+
+.Main-text{
+    font-size: 22px;
+    text-align: center;
+}
+.images{
+    display: inline-flex;
+    position: relative;
+    left: 45%;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}

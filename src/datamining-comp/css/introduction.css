@@ -1,0 +1,43 @@
+.Left{
+    margin-left: 10%;
+    margin-right: 20%;
+    padding-bottom: 20px;
+}
+
+.Header{
+    color: #6247AA;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+
+.text{
+    margin-left: 25px;
+    color: #393E46;
+    font-size: 22px;    
+    font-family: Arial, Helvetica, sans-serif    ;
+}
+
+.image{
+    padding-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 25px;
+}
+
+.image-title{
+    padding-top: 25px;
+    text-align: center;
+    color: white;
+    font-size: 18px;    
+    font-family: Arial, Helvetica, sans-serif    ;
+}
+
+.Title {
+    color: #161D6F;
+    margin-left: 12px;
+    font-size: 28px;    
+    font-family: Arial, Helvetica, sans-serif    
+
+}

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Miniver&family=Open+Sans:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+.LocalNavBar{
+   border: hidden;
+    height: 70px;
+
+   width: 100%;
+   display: inline-flex;
+   background-color: #ffb703;
+
+}
+.logo {
+    margin-top: 25px;
+    color : #023047;
+    position: relative;
+    border: hidden;
+    left:10%;
+    font-family: 'Playball', cursive;
+    font-weight: 900;
+    font-size: 1.8rem;
+}
+.Middle-Text {
+    margin-top: 150px;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Open Sans' , sans-serif;
+
+}
+.h1{
+    font-size: 3.2rem;
+    font-weight: 400;
+    color: #219ebc;
+    font-family: 'Fredoka One', cursive;
+    margin-bottom: 40px;
+}
+.h2{
+    font-size: 3.2rem;
+    font-weight: 400;
+    color: #023047;
+    font-family: 'Fredoka One', cursive;
+}
+.button-blue{
+    border: hidden;
+    border-radius: 25px;
+    background-color: #219ebc;
+    padding: 20px 45px;
+    font-size: 20px;
+    color: white;
+    font-family: 'Open Sans' , sans-serif;
+    margin-bottom: 40px;
+}
+.p{
+    font-size: 22px;
+    font-family: 'Open Sans' , sans-serif;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-bottom: 80px;
+}
+
+.button-blue:hover {
+    background-color: #023047;
+    color:#219ebc;
+    transition:1.1s;
+}
+
