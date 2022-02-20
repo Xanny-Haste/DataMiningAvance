@@ -12,8 +12,7 @@ export const Outil = () =>{
             <p className='text'>-La Création de la cube Olab</p>
             <h2 className='Title'>3.Jupyter (Python)</h2>
             <p className='text'>-Nettoyage des donner</p>
-            <h2 className='Title'>4.Tibco jaspersoft</h2>
-            <p className='text'>-Rapports</p>
+            <p className='text'>-Machine learning</p>
             <h2 className='Title'>5.Php My Admin</h2>
             <p className='text'>-Pour les base de donnes</p>
         </div>

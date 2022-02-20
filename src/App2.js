@@ -10,6 +10,11 @@ import {Dim} from './datamining-comp/Dem'
 import {Fact} from './datamining-comp/Php';
 import {Cube} from './datamining-comp/cube'
 import {Date} from './datamining-comp/Date';
+import { Int } from './datamining-comp/Recherche';
+import { Con } from './datamining-comp/Conv';
+import { Div } from './datamining-comp/Div';
+import { Env } from './datamining-comp/Ent'
+import {Pre} from './datamining-comp/Prediction'
 function App2() {
   useEffect(() => {
     document.title = "Student Performance"
@@ -19,6 +24,7 @@ function App2() {
     <div className='rapport'>
           <Navbar />
           <div className='border'>
+          <Int />
           <Plan />
           <Introduction />
           <Outil />
@@ -27,7 +33,13 @@ function App2() {
           <Dim />
           <Fact />
           <Cube />
-          <Date />
+          <Con />
+          <Div />
+          <Env />
+          <Pre />
+          <Date/>
+          
+      
           </div>
     </div>
   );

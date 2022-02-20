@@ -9,9 +9,11 @@ export const Plan = () => {
    </p>
             <p className="text"> Shema est conception   </p>
             <p className="text">  Collect Data </p>
-            <p className="text">   Dimention tables </p>
-            <p className="text"> Fact table</p>
-            <p className="text"> Cube</p>
+            <p className="text">   Preprocessing </p>
+            <p className="text"> Datwarehouse</p>
+            <p className="text"> Machine learning</p>
+            <p className="text">évaluez les résultats
+</p>
         </div>
     )
 }

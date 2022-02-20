@@ -9,9 +9,9 @@ export const Collect = () => {
             <p className="text">ensemble de fichiers Cvs </p>
             <h2 className="Title">La Structure De Base de Donnes "DataBase_univ" :</h2>
             <p className="text"> Il se compose de trois tableaux :</p>
-            <h2 className="Title">     Premier tableau :    <p className="text"> table etudiant qui se compose également d'un seul champ  "              Id_etudiant "</p></h2>
+            <h2 className="Title">     Premier tableau :    <p className="text"> table etudiant qui se compose également d'un seul champ  " Id_etudiant ": id_student,region,gender</p></h2>
          
-            <h2 className="Title">deuxième tableau <p className="text">table score qui se composé a deux champs "Id_etudiant" et "Score"</p></h2>
+            <h2 className="Title">deuxième tableau <p className="text">table score qui se composé a deux champs "Id_etudiant" et "Score" : credit</p></h2>
             <h2 className="Title"> troisième tableau:<p className="text">table résultant qui se composé par "Id_etudiant" , "id_resulta" , "Resulta final"</p></h2>
             <h2 className="Title">La Collecte de données</h2>
             <p className="text">Pour Collecte Des Donnes Compose a Deux Etapas </p>

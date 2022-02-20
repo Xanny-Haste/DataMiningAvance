@@ -10,10 +10,6 @@ export const Dim = () => {
             <h1 className='Header'>VI. Dimention Tables</h1>
             <p className='text'>Dans ce Etape Utilisée Talend Pour Creaté Table dimenstion Dans Base Donnes Qui contient Tables des faits et Table Dimenstion "Base_dim" Base Donnes MySql </p>
             <img src={img2} className='image' />
-            <h2 className='Title'>Sortir Etudiant :</h2>
-            <img src={img3} className='image' />
-            <h2 className='Title'>Sortir Score : </h2>
-            <img src={img4} className='image' />
             <h2 className='Title'>Php my Admin</h2>
             <img src={img5} className='image' />
             
